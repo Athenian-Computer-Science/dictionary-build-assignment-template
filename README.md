@@ -1,25 +1,16 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Build a dictionary 
+Goal: practice building & working with dictionaries
 
 ## Problem Description
-Problem description goes here. 
-
-* Steps to take go here. 
-
-## Example
-```
-Value to increment? 5
-10
-```
-
-## Suggested Approach
-1) Suggestions go here
+1) Create an empty dictionary. 
+  a. You may choose your subject, but some ideas are: 
+    * Names of people and their answer to a survey question
+    * Pet names and types
+    * Sports players and their positions on a team or players and their teams (sharing a common position)
+2) Add key-value pairs to it using user input. Pairs should be added until the user is finished.
+3) Use a `for` loop to print out each key-value pair
 
 ## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
+* You can use a `for` loop to loop through a dictionary using `for key_name, value_name in dictionary_name.items():`
+
 
