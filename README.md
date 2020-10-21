@@ -11,6 +11,8 @@ Goal: practice building & working with dictionaries
 4) Use a `for` loop to print out each key-value pair
 
 ## Hints
-* You can use a `for` loop to loop through a dictionary using `for key_name, value_name in dictionary_name.items():`
+* You can use a `for` loop to loop through a dictionary using: 
+
+`for key_name, value_name in dictionary_name.items():`
 
 
